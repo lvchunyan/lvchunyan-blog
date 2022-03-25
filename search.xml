@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>nodejs基础</title>
+      <link href="/2022/03/14/node/"/>
+      <url>/2022/03/14/node/</url>
+      
+        <content type="html"><![CDATA[<h1 id="node简介"><a href="#node简介" class="headerlink" title="node简介"></a>node简介</h1><p><strong>Node.js 在浏览器之外运行 V8 JavaScript 引擎（Google Chrome 的内核）。 这使得 Node.js 的性能非常好。<br>Node.js 应用程序在单个进程中运行，无需为每个请求创建新的线程。 Node.js 在其标准库中提供了一组异步的 I/O 原语，以防止 JavaScript 代码阻塞，通常，Node.js 中的库是使用非阻塞范式编写的，使得阻塞行为成为异常而不是常态。</strong></p><hr><h1 id="node命令行窗口"><a href="#node命令行窗口" class="headerlink" title="node命令行窗口"></a>node命令行窗口</h1><ul><li><strong>常用指令</strong><ul><li>dir 表示列出当前目录下的所有文件</li><li>cd 目录名 表示进入到指定的目录</li><li>md 目录名 表示创建一个文件夹</li><li>rm 目录名 表示删除一个文件夹</li></ul></li><li><strong>目录</strong><ul><li>. 表示当前目录</li><li>.. 表示上一级目录</li></ul></li><li><strong>环境变量（window系统中的变量）</strong><ul><li>path 环境变量中保存的是一个一个的路径，路径之间用;隔开</li><li>作用<ul><li>当在命令行窗口打开一个文件或调用一个程序时，系统会首先在当前目录下寻找文件程序， 如果找到了则直接打开；如果没找到则会到环境变量path的路径中寻找；如果没找到则报错（作用域链）</li><li>所以可以将一些经常需要访问的程序和文件路径添加到path中，这样就可以在任意位置来访问这些文件和程序了</li></ul></li></ul></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> node </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> node </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ceshi</title>
+      <link href="/2022/03/10/ceshi/"/>
+      <url>/2022/03/10/ceshi/</url>
+      
+        <content type="html"><![CDATA[<p>2222</p><h3 id="11111"><a href="#11111" class="headerlink" title="11111"></a>11111</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/03/09/hello-world/"/>
+      <url>/2022/03/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
